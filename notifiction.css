@@ -1,0 +1,65 @@
+#boxer{
+
+    width:50px ;
+   height: 800px;
+   stroke: #ffffff;
+   transform: translate(-250%,-2%);
+   border: 2px solid #c8c5c5;
+   
+  }
+  
+  #home{
+
+ padding: 1%;
+ margin: 8px;
+ stroke: #ffffff;
+
+  
+}
+
+
+#Menu {
+  width: 20px;
+  height: 3px;
+
+   transform: translate(60%,120%);
+
+  background-color: black;
+  margin: 5px 0;
+}
+
+#boxersearch{
+
+width:500px ;
+   height: 750px;
+    border-radius: 15px 50px 30px 5px;
+    transform: translate(-15%,0%);
+    border-right:2px solid #c4c4c4;
+ 
+ 
+
+}
+
+#smallbox{
+
+    width:495px ;
+   height: 120px;
+
+   transform: translate(0%,35%);
+  
+    border:1px solid#ffffff;
+    border-bottom:2px solid rgb(195, 195, 195);
+
+}
+
+#texterr{
+
+
+
+
+
+
+    
+
+  
+  
