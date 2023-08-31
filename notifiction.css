@@ -54,7 +54,54 @@ width:500px ;
 
 #texterr{
 
+  width: 300px;
+  height: 50px;
+  transform: translate(28%,-90%);
+  border: 2px solid rgb(249, 249, 249);
 
+
+
+
+}
+
+
+
+
+button{
+
+
+background-color: #0095F6;
+  border: none;
+  color: white;
+  padding: 20px;
+  width: 40%;
+  height: 20%;
+  transform: translate(170%,-150%);
+  
+  
+ 
+  font-size: 16px;
+
+
+
+
+
+
+}
+
+.button4 {border-radius: 12px;}
+
+#smallboxx{
+
+  width:495px ;
+ height: 120px;
+
+ transform: translate(0%,35%);
+
+  border:1px solid#ffffff;
+  border-bottom:2px solid rgb(255, 255, 255);
+
+}
 
 
 
