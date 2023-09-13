@@ -8,7 +8,11 @@
   scroll-snap-stop: always;
 
   
+<<<<<<< HEAD
  transform: translate(-50%,0);
+=======
+ transform: translate(-60%,0);
+>>>>>>> origin/main
   border-right: 2px solid #f0e9e9;
   border-top: 6px solid rgb(255, 255, 255);
   border-bottom: 6px solid rgb(255, 255, 255);
@@ -122,10 +126,19 @@ th, td {
 #Bigbox{
 
   width: 500px;
+<<<<<<< HEAD
   height: 800px;
   stroke: #cf2020;
   border: 2px solid rgb(70, 13, 13);
   transform: translate(-35%,-3%);
+=======
+  height: 850px;
+  stroke: #ffffff;
+  border: 2px solid rgb(255, 255, 255);
+  border-bottom: solid rgb(159, 159, 159);
+  transform: translate(-20%,05%);
+
+>>>>>>> origin/main
 
 }
 
@@ -137,18 +150,11 @@ color: black;
 
 }
 
-#threedot{
 
-width: 50px;
-height: 20px;
-transform: translate(850%,-3400%);
-border: 1px solid rgb(255, 255, 255);
-
-}
 
 #icons{
 
-  margin-top: 10px;
+  margin-top: 15px;
   transform: translate(50);
 
 }
@@ -254,6 +260,77 @@ border: 1px solid rgb(255, 255, 255);
     }
     
     
+
+
+
+#Bigboxx{
+
+  width: 400px;
+  height: 850px;
+  stroke: #ffffff;
+  border: 2px solid #ffffff;
+ 
+  transform: translate(-5%,8%);
+
+
+}
+
+#reelbox{
+
+
+
+  height: 700px;
+  background-color: solid white;
+  stroke:  rgb(0, 0, 0);
+  width: 400px;
+  object-fit: cover;
+   margin-top: 5%;
+    border-radius: 25px;
+  scroll-snap-stop: always;
+  
+  transform: translate(-60%,0);
+ 
+}
+
+
+#reellike{
+
+width: 80px;
+height: 400px;
+
+transform: translate(480%,-100%);
+
+
+
+}
+
+#homes{
+
+
+  margin-top: 30%;
+
+
+
+
+}
+
+#reelcentrebox{
+
+  width: 300px;
+  height: 100px;
+
+  transform: translate(2%,-210%);
+
+
+
+
+
+}
+
+
+
+
+
 
 
 
